@@ -1,0 +1,13 @@
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p02areacirculo\bin\Debug\netcoreapp3.1\p02areacirculo.exe
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p02areacirculo\bin\Debug\netcoreapp3.1\p02areacirculo.deps.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p02areacirculo\bin\Debug\netcoreapp3.1\p02areacirculo.runtimeconfig.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p02areacirculo\bin\Debug\netcoreapp3.1\p02areacirculo.runtimeconfig.dev.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p02areacirculo\bin\Debug\netcoreapp3.1\p02areacirculo.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p02areacirculo\bin\Debug\netcoreapp3.1\p02areacirculo.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p02areacirculo\obj\Debug\netcoreapp3.1\p02areacirculo.csprojAssemblyReference.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p02areacirculo\obj\Debug\netcoreapp3.1\p02areacirculo.AssemblyInfoInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p02areacirculo\obj\Debug\netcoreapp3.1\p02areacirculo.AssemblyInfo.cs
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p02areacirculo\obj\Debug\netcoreapp3.1\p02areacirculo.csproj.CoreCompileInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p02areacirculo\obj\Debug\netcoreapp3.1\p02areacirculo.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p02areacirculo\obj\Debug\netcoreapp3.1\p02areacirculo.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p02areacirculo\obj\Debug\netcoreapp3.1\p02areacirculo.genruntimeconfig.cache

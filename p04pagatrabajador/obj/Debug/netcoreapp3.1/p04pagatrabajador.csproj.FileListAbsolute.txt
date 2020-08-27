@@ -1,0 +1,13 @@
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.csprojAssemblyReference.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.AssemblyInfoInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.AssemblyInfo.cs
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.csproj.CoreCompileInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p04pagatrabajador\bin\Debug\netcoreapp3.1\p04pagatrabajador.exe
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p04pagatrabajador\bin\Debug\netcoreapp3.1\p04pagatrabajador.deps.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p04pagatrabajador\bin\Debug\netcoreapp3.1\p04pagatrabajador.runtimeconfig.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p04pagatrabajador\bin\Debug\netcoreapp3.1\p04pagatrabajador.runtimeconfig.dev.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p04pagatrabajador\bin\Debug\netcoreapp3.1\p04pagatrabajador.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p04pagatrabajador\bin\Debug\netcoreapp3.1\p04pagatrabajador.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.genruntimeconfig.cache

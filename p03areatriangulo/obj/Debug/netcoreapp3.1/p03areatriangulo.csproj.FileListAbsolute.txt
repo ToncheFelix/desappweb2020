@@ -1,0 +1,13 @@
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.csprojAssemblyReference.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.AssemblyInfoInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.AssemblyInfo.cs
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.csproj.CoreCompileInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p03areatriangulo\bin\Debug\netcoreapp3.1\p03areatriangulo.exe
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p03areatriangulo\bin\Debug\netcoreapp3.1\p03areatriangulo.deps.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p03areatriangulo\bin\Debug\netcoreapp3.1\p03areatriangulo.runtimeconfig.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p03areatriangulo\bin\Debug\netcoreapp3.1\p03areatriangulo.runtimeconfig.dev.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p03areatriangulo\bin\Debug\netcoreapp3.1\p03areatriangulo.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p03areatriangulo\bin\Debug\netcoreapp3.1\p03areatriangulo.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.genruntimeconfig.cache
