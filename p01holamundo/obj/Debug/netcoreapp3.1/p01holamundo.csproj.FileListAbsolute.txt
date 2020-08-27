@@ -1,0 +1,13 @@
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p01holamundo\bin\Debug\netcoreapp3.1\p01holamundo.exe
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p01holamundo\bin\Debug\netcoreapp3.1\p01holamundo.deps.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p01holamundo\bin\Debug\netcoreapp3.1\p01holamundo.runtimeconfig.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p01holamundo\bin\Debug\netcoreapp3.1\p01holamundo.runtimeconfig.dev.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p01holamundo\bin\Debug\netcoreapp3.1\p01holamundo.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p01holamundo\bin\Debug\netcoreapp3.1\p01holamundo.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.csprojAssemblyReference.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.AssemblyInfoInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.AssemblyInfo.cs
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.csproj.CoreCompileInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.genruntimeconfig.cache
