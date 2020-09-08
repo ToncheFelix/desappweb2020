@@ -1,5 +1,5 @@
 ﻿/**
-* Programa que genera dos vectores aleatorios
+* Programa que genera dos vectores aleatorios de 15 elementos y los suma en un tercer vector
 * 
 * Felix Fernando Tonche Valadez
 * Universidad Autónoma de Zacatecas
