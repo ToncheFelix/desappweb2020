@@ -1,6 +1,6 @@
 ﻿/**
-* Programa que calcula el promedio
-* 
+* Programa que calcula el promedio de un vector con 50 elementos además
+* determina cuántos son mayores al promedio
 * Felix Fernando Tonche Valadez
 * Universidad Autónoma de Zacatecas
 * Ingeniería en Computación - Desarrollo de Apps Web
@@ -40,5 +40,5 @@ namespace p08vectorpromedio
             Console.WriteLine($"\nElementos mayores al promedio: {nmp} \n");
             
         }
-    }
+    }   
 }
