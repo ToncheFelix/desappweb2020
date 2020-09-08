@@ -1,0 +1,13 @@
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p12vectorinverso\bin\Debug\netcoreapp3.1\p12vectorinverso.exe
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p12vectorinverso\bin\Debug\netcoreapp3.1\p12vectorinverso.deps.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p12vectorinverso\bin\Debug\netcoreapp3.1\p12vectorinverso.runtimeconfig.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p12vectorinverso\bin\Debug\netcoreapp3.1\p12vectorinverso.runtimeconfig.dev.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p12vectorinverso\bin\Debug\netcoreapp3.1\p12vectorinverso.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p12vectorinverso\bin\Debug\netcoreapp3.1\p12vectorinverso.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.csprojAssemblyReference.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.AssemblyInfoInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.AssemblyInfo.cs
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.csproj.CoreCompileInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p12vectorinverso\obj\Debug\netcoreapp3.1\p12vectorinverso.genruntimeconfig.cache

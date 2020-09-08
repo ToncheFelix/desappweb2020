@@ -1,0 +1,13 @@
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.exe
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.deps.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.runtimeconfig.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.runtimeconfig.dev.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.csprojAssemblyReference.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.AssemblyInfoInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.AssemblyInfo.cs
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.csproj.CoreCompileInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.genruntimeconfig.cache
