@@ -41,7 +41,7 @@ namespace p22linq3
 
             // filtrar estudiantes con promedio de 7, mostrar por orden descendente
             var Prom8 = (from est in Estudiantes
-                where est.Calif.Average()>=70
+                where est.Calif.Average() >= 70
                 orderby est.Nombre descending
                 select est).ToList();
             Console.WriteLine("\nTodos los estudiantes con promedio de 8 en orden descendente por nombre: {0}",Prom8.Count());
