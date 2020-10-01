@@ -1,0 +1,13 @@
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p29delegados5\bin\Debug\netcoreapp3.1\p29delegados5.exe
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p29delegados5\bin\Debug\netcoreapp3.1\p29delegados5.deps.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p29delegados5\bin\Debug\netcoreapp3.1\p29delegados5.runtimeconfig.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p29delegados5\bin\Debug\netcoreapp3.1\p29delegados5.runtimeconfig.dev.json
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p29delegados5\bin\Debug\netcoreapp3.1\p29delegados5.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p29delegados5\bin\Debug\netcoreapp3.1\p29delegados5.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p29delegados5\obj\Debug\netcoreapp3.1\p29delegados5.csprojAssemblyReference.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p29delegados5\obj\Debug\netcoreapp3.1\p29delegados5.AssemblyInfoInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p29delegados5\obj\Debug\netcoreapp3.1\p29delegados5.AssemblyInfo.cs
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p29delegados5\obj\Debug\netcoreapp3.1\p29delegados5.csproj.CoreCompileInputs.cache
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p29delegados5\obj\Debug\netcoreapp3.1\p29delegados5.dll
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p29delegados5\obj\Debug\netcoreapp3.1\p29delegados5.pdb
+D:\Documentos\MEGA\UNIVERSIDAD\9NO SEMESTRE\MATERIAS\Desarrollo de Aplicaciones en Internet\proyectos\p29delegados5\obj\Debug\netcoreapp3.1\p29delegados5.genruntimeconfig.cache

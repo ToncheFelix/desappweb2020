@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "p29delegados5/1.0.0": {
+        "runtime": {
+          "p29delegados5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p29delegados5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
