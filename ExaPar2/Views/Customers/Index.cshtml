@@ -1,0 +1,107 @@
+@model IEnumerable<ReservacionesHotel.Models.Customer>
+
+@{
+    ViewData["Title"] = "Customers";
+}
+
+<h1>Customers</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+             <th>
+                @Html.DisplayNameFor(model => model.CustomerID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerForenames)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerSurnames)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerDOB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerAddressStreet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerAddressTown)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerAddressCountry)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerAddressPostalCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerHomePhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerWorkPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerMobilPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerEmail)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerForenames)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerSurnames)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerDOB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerAddressStreet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerAddressTown)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerAddressCountry)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerAddressPostalCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerHomePhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerWorkPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerMobilPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerEmail)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CustomerID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CustomerID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CustomerID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

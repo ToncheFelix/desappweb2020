@@ -1,0 +1,72 @@
+@model ReservacionesHotel.Models.Booking
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Booking</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CustomerID" class="control-label"></label>
+                <select asp-for="CustomerID" class ="form-control" asp-items="ViewBag.CustomerID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateBookingMade" class="control-label"></label>
+                <input asp-for="DateBookingMade" class="form-control" />
+                <span asp-validation-for="DateBookingMade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TimeBookingMade" class="control-label"></label>
+                <input asp-for="TimeBookingMade" class="form-control" />
+                <span asp-validation-for="TimeBookingMade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookedStartDate" class="control-label"></label>
+                <input asp-for="BookedStartDate" class="form-control" />
+                <span asp-validation-for="BookedStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookedEndDate" class="control-label"></label>
+                <input asp-for="BookedEndDate" class="form-control" />
+                <span asp-validation-for="BookedEndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalPaymentDueDate" class="control-label"></label>
+                <input asp-for="TotalPaymentDueDate" class="form-control" />
+                <span asp-validation-for="TotalPaymentDueDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalPaymentDueAmount" class="control-label"></label>
+                <input asp-for="TotalPaymentDueAmount" class="form-control" />
+                <span asp-validation-for="TotalPaymentDueAmount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalPaymentMadeOn" class="control-label"></label>
+                <input asp-for="TotalPaymentMadeOn" class="form-control" />
+                <span asp-validation-for="TotalPaymentMadeOn" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookingComments" class="control-label"></label>
+                <input asp-for="BookingComments" class="form-control" />
+                <span asp-validation-for="BookingComments" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

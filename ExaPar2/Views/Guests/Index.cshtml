@@ -1,0 +1,83 @@
+@model IEnumerable<ReservacionesHotel.Models.Guest>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Guest</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.GuestTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GuestForenames)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GuestSurnames)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GuestDOB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GuestAddressStreet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GuestAddressTown)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GuestAddressCountry)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GuestAddressPostalCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GuestContactPhone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.GuestTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GuestForenames)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GuestSurnames)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GuestDOB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GuestAddressStreet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GuestAddressTown)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GuestAddressCountry)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GuestAddressPostalCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GuestContactPhone)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.GuestID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.GuestID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.GuestID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
