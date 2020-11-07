@@ -1,0 +1,40 @@
+dotnet aspnet-codegenerator controller
+
+ -name StudentsController 
+ -m ContosoUniversity.Models.Student 
+ -dc ContosoUniversity.Data.SchoolContext  en que parte
+ --relativeFolderPath Controllers 			rutas relativas
+ --useDefaultLayout 						rutas default
+ --referenceScriptLibraries 
+ -f 										sobre escribe
+
+
+
+
+shared
+_Layout.cshtml
+
+
+
+Crear c+odigo automático
+
+dotnet aspnet-codegenerator controller -name StudentsController -m ContosoUniversity.Models.Student -dc ContosoUniversity.Data.SchoolContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
+
+dotnet aspnet-codegenerator controller -name InstructorsController -m ContosoUniversity.Models.Instructor -dc ContosoUniversity.Data.SchoolContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
+
+
+dotnet aspnet-codegenerator controller -name DepartmentsController -m ContosoUniversity.Models.Department -dc ContosoUniversity.Data.SchoolContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
+
+
+
+ dotnet aspnet-codegenerator controller -name CoursesController -m ContosoUniversity.Models.Course -dc ContosoUniversity.Data.SchoolContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
+
+
+
+
+ next 
+ agregar cuadro de búsqueda a las tablas
+ hacer consultas maestro detall
+ estudiantes y sus materias
+ departamentos etc
+ 

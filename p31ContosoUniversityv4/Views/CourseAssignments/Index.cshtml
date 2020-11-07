@@ -1,0 +1,40 @@
+@model IEnumerable<ContosoUniversity.Models.CourseAssignment>
+
+@{
+    ViewData["Title"] = "Course Assignment";
+}
+
+<h1>Course Assignment</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Course)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Instructor)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Instructor.FullName)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new {id=item.CourseID, id2=item.InstructorID }) |
+                @Html.ActionLink("Delete", "Delete", new {   CourseID=item.CourseID, InstructorID=item.InstructorID /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
