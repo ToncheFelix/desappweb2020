@@ -1,0 +1,30 @@
+@model DVDCollection.Models.FilmTitlesProducer
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>FilmTitlesProducer</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Producer)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Producer.ContactEmailAddress)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FilmTitle)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FilmTitle.FilmAdditionalInfo)
+        </dd>
+    </dl>
+</div>
+<div>
+    
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,56 @@
+@model IEnumerable<DVDCollection.Models.Producer>
+
+@{
+    ViewData["Title"] = "Producers";
+}
+
+<h1>Producers</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by Producer name: <input type="text" name="SearchString"  />
+            <input type="submit" value="Search" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProducerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContactEmailAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Website)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProducerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContactEmailAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Website)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ProducerID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ProducerID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ProducerID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

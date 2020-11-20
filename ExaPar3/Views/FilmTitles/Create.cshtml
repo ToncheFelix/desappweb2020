@@ -1,0 +1,67 @@
+@model DVDCollection.Models.FilmTitle
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>FilmTitle</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FilmTitles" class="control-label"></label>
+                <input asp-for="FilmTitles" class="form-control" />
+                <span asp-validation-for="FilmTitles" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FilmStory" class="control-label"></label>
+                <input asp-for="FilmStory" class="form-control" />
+                <span asp-validation-for="FilmStory" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FilmReleaseDate" class="control-label"></label>
+                <input asp-for="FilmReleaseDate" class="form-control" />
+                <span asp-validation-for="FilmReleaseDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FilmDuration" class="control-label"></label>
+                <input asp-for="FilmDuration" class="form-control" />
+                <span asp-validation-for="FilmDuration" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GenreID" class="control-label"></label>
+                <select asp-for="GenreID" class ="form-control" asp-items="ViewBag.GenreID">
+                    <option value="">--- Select Genre ---</option>
+                </select>
+                <span asp-validation-for="GenreID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CertificateID" class="control-label"></label>
+                <select asp-for="CertificateID" class ="form-control" asp-items="ViewBag.CertificateID">
+                    <option value="">--- Select Certificate ---</option>
+                </select>
+                <span asp-validation-for="CertificateID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FilmAdditionalInfo" class="control-label"></label>
+                <input asp-for="FilmAdditionalInfo" class="form-control" />
+                <span asp-validation-for="FilmAdditionalInfo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

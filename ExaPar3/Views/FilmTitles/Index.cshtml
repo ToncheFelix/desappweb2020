@@ -1,0 +1,80 @@
+@model IEnumerable<DVDCollection.Models.FilmTitle>
+
+@{
+    ViewData["Title"] = "Film Titles";
+}
+
+<h1>Film Titles</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by Film Title: <input type="text" name="SearchString"  />
+            <input type="submit" value="Search" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FilmTitles)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FilmStory)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FilmReleaseDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FilmDuration)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FilmAdditionalInfo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FilmGenre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FilmCertificate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilmTitles)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilmStory)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilmReleaseDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilmDuration)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilmAdditionalInfo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilmGenre.Genre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilmCertificate.Certificate)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.FilmTitleID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.FilmTitleID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.FilmTitleID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

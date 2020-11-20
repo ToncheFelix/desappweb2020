@@ -1,0 +1,68 @@
+@model IEnumerable<DVDCollection.Models.FilmsActorRol>
+
+@{
+    ViewData["Title"] = "Films Actor Roles";
+}
+
+<h1>Films Actor Roles</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by Character name: <input type="text" name="SearchString"  />
+            <input type="submit" value="Search" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CharacterName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CharacterDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Actor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RoleType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FilmTitle)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CharacterName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CharacterDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Actor.ActorFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoleType.RoleTypes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilmTitle.FilmTitles)
+            </td>
+            <td>
+               @Html.ActionLink("Edit", "Edit", new {  id=item.FilmTitleID, id2=item.ActorID, id3=item.RoleTypeID }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.FilmTitleID, id2=item.ActorID, id3=item.RoleTypeID }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.FilmTitleID, id2=item.ActorID, id3=item.RoleTypeID/* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

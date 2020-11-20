@@ -1,0 +1,36 @@
+
+GENERACIÓN DE CÓDIGO - VISTAS Y CONTROLADORES
+
+dotnet aspnet-codegenerator controller -name ActorsController -m DVDCollection.Models.Actor -dc DVDCollection.Data.DVDContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
+
+dotnet aspnet-codegenerator controller -name FilmCertificatesController -m DVDCollection.Models.FilmCertificate -dc DVDCollection.Data.DVDContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
+
+dotnet aspnet-codegenerator controller -name FilmGenresController -m DVDCollection.Models.FilmGenre -dc DVDCollection.Data.DVDContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
+
+dotnet aspnet-codegenerator controller -name FilmsActorRolsController -m DVDCollection.Models.FilmsActorRol -dc DVDCollection.Data.DVDContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
+
+dotnet aspnet-codegenerator controller -name FilmTitlesController -m DVDCollection.Models.FilmTitle -dc DVDCollection.Data.DVDContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
+
+dotnet aspnet-codegenerator controller -name FilmTitlesProducersController -m DVDCollection.Models.FilmTitlesProducer -dc DVDCollection.Data.DVDContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
+
+dotnet aspnet-codegenerator controller -name ProducersController -m DVDCollection.Models.Producer -dc DVDCollection.Data.DVDContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
+
+dotnet aspnet-codegenerator controller -name RoleTypesController -m DVDCollection.Models.RoleType -dc DVDCollection.Data.DVDContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
+
+Falla: Scaffolding failed.
+Add Microsoft.VisualStudio.Web.CodeGeneration.Design package to the project as a NuGet package reference.
+
+solucion: dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design --version 3.1.0
+
+
+LOGIN
+dotnet add package Microsoft.AspNetCore.Identity.UI --version 3.1.9
+dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore --version 3.1.9
+
+dotnet aspnet-codegenerator identity -u User -fi "Account.Register;Account.Login;Account.Logout" -sqlite -f
+
+
+============= LOGIN ===============
+Email:	tonchefelix@gmail.com
+Pass:	desappIC_20
+===================================
